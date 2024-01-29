@@ -1,0 +1,6 @@
+import io.netty.channel.AbstractChannelHandlerContext.Tasks.2;
+public class FunctionUse789 {
+public void funcUse() {
+2 2 = new 2();
+}
+}
